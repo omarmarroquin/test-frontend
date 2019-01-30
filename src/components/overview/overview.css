@@ -1,0 +1,6 @@
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+  .overview-container .col-xs-12 {
+    border: none !important;
+  }
+}

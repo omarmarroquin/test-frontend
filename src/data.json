@@ -1,0 +1,15 @@
+{
+  "invoice": "SO3834754",
+  "number": "33-0092kk00",
+  "date": "7/31/18",
+  "dueDate": "7/31/18",
+  "terms": "Next 0",
+  "balance": "$452.45",
+  "status": "Active",
+  "method": "Multimodal",
+  "capacity": "LCL",
+  "drayage": "Pickup, Delivery",
+  "incoterms": "FOB",
+  "serviceOptions": "Desconsolidation, Customs Clearance",
+  "commodities": "Lithium Batteries, Hazmat, Other"
+}
